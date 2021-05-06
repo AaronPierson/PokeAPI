@@ -1,2 +1,2 @@
 # PokeAPI
- A android app for learing to use a API
+ A pokedex app I made to learn android stuido and kotloin.
